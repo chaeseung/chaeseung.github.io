@@ -1,5 +1,5 @@
 # Site settings
-title: "CHAE SEUNG's Resume"
+title: "CHAE SEUNG"
 description: "resume"
 
 # Build settings
@@ -10,8 +10,8 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "CHAE Seung"
-resume_title:                   "Electrical Engineer and etc."
+resume_name:                    "Chae Seung"
+resume_title:                   "Chae Seung's CV"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "chaeseung@kakao.com"
