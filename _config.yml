@@ -23,7 +23,7 @@ resume_contact_address:         "Daegu, South Korea"
 resume_header_contact_info:     "chaeseung@kakao.com"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>👋 Hi, I’m @chaeseung \n 👀 I’m interested in power system economics and smart grid</p>"
+resume_header_intro: "<p>👋 Hi, I’m @chaeseung <br> 👀 I’m currently interested in power system economics and smart grid</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
