@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Chae Seung"
-resume_title:                   "Curriculum Vitae"
+resume_title:                   "한국어 이력서는 여기"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "contact : chaeseung@kakao.com"
