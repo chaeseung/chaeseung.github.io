@@ -20,6 +20,10 @@
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
+
+timezone: Asia/Seoul
+future: true
+
  theme: minima
  kramdown:
   math_engine: mathjax
