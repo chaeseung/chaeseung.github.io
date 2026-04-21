@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "유도전동기 토크 공식의 유도 과정"
+categories: 전기기기
 ---
 
 ## 1. 에너지 변환과 동기 와트(Synchronous Watt)
