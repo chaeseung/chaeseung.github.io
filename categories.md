@@ -17,3 +17,23 @@ permalink: /categories/
     {% endfor %}
   </ul>
 {% endfor %}
+
+<hr>
+
+<h2 id="uncategorized">Uncategorized</h2>
+<ul>
+  {% assign has_uncategorized = false %}
+  {% for post in site.posts %}
+    {% if post.categories.size == 0 %}
+      <li>
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+        <span class="post-meta"> - {{ post.date | date: "%Y-%m-%d" }}</span>
+      </li>
+      {% assign has_uncategorized = true %}
+    {% endif %}
+  {% endfor %}
+
+  {% if has_uncategorized == false %}
+    <li>모든 포스트가 분류되었습니다.</li>
+  {% endif %}
+</ul>
