@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "전기·자기 물리량의 쌍대성과 방해/수용 성분 정리"
+categories: 회로이론
 ---
 
 # 전기·자기 물리량의 쌍대성 (Duality)
