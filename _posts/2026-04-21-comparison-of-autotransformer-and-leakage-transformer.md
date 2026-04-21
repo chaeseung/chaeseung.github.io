@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "단권변압기와 누설변압기의 누설자속 특성 비교"
+categories: 전기기기
 ---
 
 ## 1. 단권변압기(Autotransformer): 누설자속의 최소화
