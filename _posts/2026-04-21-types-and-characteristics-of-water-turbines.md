@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "수차의 종류와 특징"
+categories: 발전공학
 ---
 
 # 수차(Water Turbine)의 분류와 특징
