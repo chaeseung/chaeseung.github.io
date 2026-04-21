@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "유도전동기의 속도 제어 방식"
+categories: 전기기기
 ---
 
 ## 1. 속도 제어의 기본 원리
