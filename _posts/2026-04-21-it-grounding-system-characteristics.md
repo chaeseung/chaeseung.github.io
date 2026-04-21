@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "IT 계통접지 방식의 특징과 이해"
+categories: 송배전공학
 ---
 
 ## 1. 문제 풀이 및 정답
