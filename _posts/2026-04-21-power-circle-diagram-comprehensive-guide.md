@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "전력원선도(Power Circle Diagram)의 정의와 주요 특성 정리"
+categories: 전력계통공학
 ---
 
 ## 1. 전력원선도의 정의 및 기본 가정
