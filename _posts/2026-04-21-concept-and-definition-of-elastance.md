@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "일래스턴스(Elastance)의 정의와 특징"
+categories: 회로이론
 ---
 
 # 일래스턴스 (Elastance, $S$)
