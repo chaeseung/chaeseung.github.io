@@ -20,20 +20,19 @@ permalink: /categories/
 
 <hr>
 
-<h2 id="uncategorized">Uncategorized</h2>
-<ul>
-  {% assign has_uncategorized = false %}
-  {% for post in site.posts %}
-    {% if post.categories.size == 0 %}
+{% comment %} 1. 카테고리가 0개인 포스트들만 미리 골라냅니다 {% endcomment %}
+{% assign uncategorized_posts = site.posts | where_exp: "item", "item.categories.size == 0" %}
+
+{% comment %} 2. 만약 해당 포스트가 하나라도 있다면 섹션을 출력합니다 {% endcomment %}
+{% if uncategorized_posts.size > 0 %}
+  <hr>
+  <h2 id="uncategorized">Uncategorized</h2>
+  <ul>
+    {% for post in uncategorized_posts %}
       <li>
         <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
         <span class="post-meta"> - {{ post.date | date: "%Y-%m-%d" }}</span>
       </li>
-      {% assign has_uncategorized = true %}
-    {% endif %}
-  {% endfor %}
-
-  {% if has_uncategorized == false %}
-    <li>모든 포스트가 분류되었습니다.</li>
-  {% endif %}
-</ul>
+    {% endfor %}
+  </ul>
+{% endif %}
