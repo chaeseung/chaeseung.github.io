@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "동기기와 유도기의 공극(Air Gap) 설계 철학 비교"
+categories: 전기기기
 ---
 
 ## 1. 자력원(Excitation)에 따른 설계 자유도
