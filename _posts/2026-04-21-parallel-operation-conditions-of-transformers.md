@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "변압기 병렬운전 조건과 불일치 시 영향"
+categories: 전기기기
 ---
 
 # 변압기 병렬운전
