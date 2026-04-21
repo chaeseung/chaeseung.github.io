@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "크로울링 현상의 속도 저하 원인과 설계적 대책"
+categories: 전기기기
 ---
 
 ## 1. 시간 고조파 vs 공간 고조파
