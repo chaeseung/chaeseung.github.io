@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "절연협조의 개념과 계통별 절연 순서"
+categories: 송배전공학
 ---
 
 # 절연협조 (Insulation Coordination)
