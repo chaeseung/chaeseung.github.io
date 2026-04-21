@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "SCR(사이리스터)의 특징 및 도통·차단 원리"
+categories: 전기기기
 ---
 
 ## 1. SCR(Silicon Controlled Rectifier)의 정의
