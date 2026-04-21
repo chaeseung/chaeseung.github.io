@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "3상 유도전동기 크로울링 및 게르게스 현상"
+categories: 전기기기
 ---
 
 ## 1. 크로울링(Crawling) 현상
