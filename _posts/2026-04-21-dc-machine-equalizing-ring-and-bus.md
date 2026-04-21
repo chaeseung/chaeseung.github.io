@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "직류기 균압환(Equalizing Ring)과 균압선(Equalizer Bus)의 비교 및 특징"
+categories: 전기기기
 ---
 
 ## 1. 균압환 (Equalizing Ring): 내부 전위 평형
