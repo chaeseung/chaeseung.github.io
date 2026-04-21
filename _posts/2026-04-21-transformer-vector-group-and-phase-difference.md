@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "변압기 벡터그룹의 표기법과 위상차 해석"
+categories: 전기기기
 ---
 
 # 변압기 벡터그룹 (Vector Group)
