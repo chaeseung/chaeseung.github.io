@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "동기전동기와 유도전동기의 전압-토크 특성 비교"
+categories: 전기기기
 ---
 
 ## 1. 동기전동기: 토크와 전압의 1승 비례 ($T \propto V$)
