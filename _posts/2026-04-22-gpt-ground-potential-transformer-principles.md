@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "GPT(접지형 계기용 변압기)의 원리와 지락 사고 시 특성 분석"
-categories: 전력계통공학
+categories: 송배전공학
 date: 2026-04-22 23:02:47 +0900
 ---
 
